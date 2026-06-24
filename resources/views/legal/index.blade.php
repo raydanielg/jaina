@@ -25,21 +25,6 @@
     </div>
 </section>
 
-<!-- TRUSTED BY -->
-<section class="trust-section">
-    <div class="container">
-        <div class="trust-title" data-aos="fade-up">Trusted by Leading Organizations</div>
-        <div class="trust-logos" data-aos="fade-up" data-aos-delay="100">
-            <span class="trust-logo">CRDB BANK</span>
-            <span class="trust-logo">NMB BANK</span>
-            <span class="trust-logo">TANESCO</span>
-            <span class="trust-logo">NHC</span>
-            <span class="trust-logo">TANZANIA BREWERIES</span>
-            <span class="trust-logo">UNICEF</span>
-        </div>
-    </div>
-</section>
-
 <!-- ABOUT -->
 <section class="about-section" id="about">
     <div class="container">

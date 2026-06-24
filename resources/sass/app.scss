@@ -16,8 +16,8 @@
 // Variables
 @import 'variables';
 
-// Brand Utilities (Legal + HR)
-@import 'brand';
-
 // Bootstrap
 @import 'bootstrap/scss/bootstrap';
+
+// Brand Utilities (Legal + HR) — import AFTER Bootstrap so custom styles win
+@import 'brand';
